@@ -2,3 +2,42 @@
     box-sizing: border-box;
 }
 
+html{
+    background-color: gray;
+}
+
+header{
+    background-color: pink;
+    color:white;
+}
+
+.p1{
+    background-color: gray;
+    color: yellow
+}
+
+.p2{
+    color:limegreen
+}
+
+.p3{
+    color:lightblue
+}
+
+.border1{
+    background-color: aliceblue;
+    text-align: left;
+    margin: 20px;
+    border:2px solid orange;
+    height: 100px;
+}
+
+footer{
+    color:white
+}
+
+#light-text{
+    color: white;
+    padding: 5px;
+    margin: 10px;px;
+}
