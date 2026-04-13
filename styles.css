@@ -13,7 +13,8 @@ header{
 
 .p1{
     background-color: gray;
-    color: yellow
+    color: yellow;
+    padding:20px
 }
 
 .p2{
